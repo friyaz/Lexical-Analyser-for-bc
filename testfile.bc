@@ -1,0 +1,28 @@
+scale = 4
+print "\nMy first program in Basic language\n!"
+print "This is assignment of Faisal Riyaz for Compiler Design.\n\n"
+
+/*
+This is a
+multiline comment !!!
+!!!
+*/
+
+/* Single comment*/
+
+bal = read()
+bal_ /= 1.454546
+av = read()
+a = 56 * bal
+b = a - 54
+a++
+b--
+d += c ^ d 
+print "\n"
+while (a >= b) {
+  "current balance = "; bal
+  "transaction? "; trans = read()
+  if (trans == 0) break;
+  bal -= trans
+  bal /= 1
+}  
